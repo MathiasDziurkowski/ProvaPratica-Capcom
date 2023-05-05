@@ -332,8 +332,15 @@
     .cabecalho
     {
         width: auto;
+        height: auto;
         padding: 10px;
         justify-content: space-between;
+    }
+
+    .logo
+    {
+        width: 128px;
+        height: auto;
     }
 
     .links-texto
