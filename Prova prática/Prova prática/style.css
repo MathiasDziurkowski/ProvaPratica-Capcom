@@ -405,3 +405,12 @@
     
 }
 
+@media (min-width: 1000px)
+{
+    .principal-sobre
+    {
+        min-height: 900px;
+    }
+}
+
+
