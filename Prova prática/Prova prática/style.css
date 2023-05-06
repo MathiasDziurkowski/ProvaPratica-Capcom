@@ -303,6 +303,18 @@
     text-align: center;
 }
 
+.sobre-aviso
+{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+    color: #011160;
+    align-self: center;
+    text-align: center;
+}
+
+
+
+
 .links-termos   
 {
     color: white;
