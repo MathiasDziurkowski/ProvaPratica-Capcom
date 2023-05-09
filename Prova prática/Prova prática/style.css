@@ -18,8 +18,11 @@
 .sede
 {
     width: 90%;
-    height: auto;
-    padding: 30px;
+    
+    box-shadow: 10px 10px #011160;
+    border-radius: 20px;
+
+    
 }
 
 .cabecalho
@@ -91,6 +94,7 @@
     font-family: 'Poppins', sans-serif;
 }
 
+
 .apresentacao-titulo
 {
     font-size: 48px;
@@ -107,8 +111,10 @@
 .logo-sobre
 {
     margin: auto;
-    width: 300px;
+    width: 350px;
+
 }
+
 
 .btn-cta
 {
@@ -134,12 +140,14 @@
 
 .sede-descricao
 {
+    gap: 30px;
     display: flex;
     flex-direction: column;
     align-items: center;
     font-family: 'Poppins',sans-serif;
     padding: 10px;
 }
+
 
 .servicos 
 {
